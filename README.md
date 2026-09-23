@@ -7,3 +7,8 @@ My Skills:
 
 1. Learning Python
 2. Moderate in Solving test cases
+
+My Intrests:
+
+1. cloud computing
+2. Data analytics
