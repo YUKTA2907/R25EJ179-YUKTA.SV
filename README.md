@@ -16,3 +16,7 @@ My Intrests:
 My Goal:
 
 1. Contribute to open source
+
+Projects:
+1)Personal Portfolio Webpage: Building and deploying a live, version-controlled portfolio repository using Markdown, Git branching, Pull Requests, and GitHub Pages.
+2)C/C++ Environment Setup: Configuring a local MinGW-w64 compiler and VS Code toolchain to write, compile, and execute fundamental programs.
